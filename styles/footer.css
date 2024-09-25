@@ -29,6 +29,7 @@ footer {
     & nav {
       display: flex;
       gap: 2rem;
+      justify-content: center;
 
       & a {
         width: fit-content;
